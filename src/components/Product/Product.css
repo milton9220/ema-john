@@ -1,0 +1,11 @@
+.product{
+    display: flex;
+    gap: 20px;
+    border-bottom: 1px solid #dedede;
+    padding: 10px 0;
+}
+.btn{
+    padding: 10px 20px;
+    background-color:yellow;
+    border: 0;
+}
